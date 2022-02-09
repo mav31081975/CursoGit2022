@@ -1,1 +1,5 @@
+<<<<<<< HEAD
   base
+=======
+base editadooooooooooooooooooyjhgyjgyjo
+>>>>>>> 9050d6bc8d0d4eb0881438edeb74d13c9f20a851
